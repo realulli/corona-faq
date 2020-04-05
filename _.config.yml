@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+#  - LICENSE.md
+  - Kinderbeschaeftigung.ms
+  - links.md
+  - Verschwoerungstheorien.md
+  - videos.md
