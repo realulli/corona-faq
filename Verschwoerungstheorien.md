@@ -18,3 +18,7 @@ Diese Seite ist nicht dazu gedacht, eine Theorie ins Laecherliche zu ziehen, als
 ### Um die Rentenkassen zu entlasten
 
 Bitte mit Links ergaenzen!
+
+# Artikel
+* [How did the coronavirus get started?](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab) (Englisch, Aufklaerung von Verschwoerungstheorien)
+* [DasDing Artikel ueber VT](https://www.dasding.de/lifestyle/coronavirus-verschwoerungstheorien-100.html)
