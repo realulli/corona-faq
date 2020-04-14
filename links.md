@@ -53,6 +53,13 @@ Hinweis: die Artikel hier muessen nicht notwendigerweise auf Deutsch sein, da vi
 * [Artikel ueber Ivermectin auf ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0166354220302011) (Englisch)
 * [Nature: Efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2) (Englisch)
 
+### Hersteller
+* [Driponin](https://www.infectopharm.com/praeparate/driponin-3-mg-tabletten/) (Ivermectin Praeparat)
+
+## Berichte/Presse allgemein
+* [Tagesschau: WHO prueft neue Faelle aus Suedkorea](https://www.tagesschau.de/ausland/who-neuinfektionen-corona-101.html)
+
+
 
 ## Andere
 * [Material fuer Schutzmasken: was ist brauchbar?](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/) (Englisch)

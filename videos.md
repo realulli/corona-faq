@@ -8,6 +8,7 @@ Die Videos muessen nicht zwingend auf Deutsch sein. Wir trennen jetzt erst mal D
 * [Corona geht gerade erst los](https://www.youtube.com/watch?v=3z0gnXgK8Do) 
 
 ## Berichte
+* [Markus Lanz: Streek kritisiert](https://www.youtube.com/watch?v=VP7La2bkOMo)
 
 ## Kanaele bzw. Serien von Videos
 
@@ -16,7 +17,8 @@ Die Videos muessen nicht zwingend auf Deutsch sein. Wir trennen jetzt erst mal D
 ## Erklaervideos
 
 ## Berichte
-* [Tesla Ventilator Update](https://www.youtube.com/watch?v=zZbDg24dfN0)
+* [Tesla Ventilator Update](https://www.youtube.com/watch?v=zZbDg24dfN0) (Englisch)
+* [Engineering low-cost ventilators for Covid-19](https://www.youtube.com/watch?v=7vLPefHYWpY) (Englisch)
 
 ## Kanaele bzw. Serien von Videos
 
