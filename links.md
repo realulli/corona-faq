@@ -11,6 +11,10 @@
 * [Destatis: Grunddaten der Krankenhaeuser (2017)](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Krankenhaeuser/Publikationen/Downloads-Krankenhaeuser/grunddaten-krankenhaeuser-2120611177004.pdf?__blob=publicationFile)
 * [Fefes Blog](https://blog.fefe.de/?mon=202004) (April)
 
+## Impftermine
+* [Bayern](https://impfzentren.bayern/citizen/overview)
+* [Hessen](https://impfterminservice.hessen.de/)
+
 ## Infoseiten der Bundesländer
 * [Baden-Württemberg](https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/)
 * [Bayern](https://www.bayern.de/service/coronavirus-in-bayern-informationen-auf-einen-blick/)
