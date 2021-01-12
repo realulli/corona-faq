@@ -12,7 +12,7 @@
 * [Fefes Blog](https://blog.fefe.de/?mon=202004) (April)
 
 ## Impftermine
-* [Bayern](https://impfzentren.bayern/citizen/overview)
+* [Bayern](https://impfzentren.bayern/citizen/)
 * [Hessen](https://impfterminservice.hessen.de/)
 
 ## Infoseiten der Bundesländer
