@@ -60,6 +60,7 @@ Hinweis: die Artikel hier muessen nicht notwendigerweise auf Deutsch sein, da vi
 * [Nature: Efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2) (Englisch)
 * [Modellierung von Beispielszenarien der SARS-CoV-2 Epidemie in Deutschland](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Modellierung_Deutschland.pdf?__blob=publicationFile)
 * [Risikoanalyse "Pandemie Modi-SARS"](https://dipbt.bundestag.de/dip21/btd/17/120/1712051.pdf) (Von 2012, interessant ab Seite 55)
+* [Impfstoff-Landschaft](https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/) (Englisch)
 
 ### Hersteller
 * [Driponin](https://www.infectopharm.com/praeparate/driponin-3-mg-tabletten/) (Ivermectin Praeparat)
