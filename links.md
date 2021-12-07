@@ -62,6 +62,8 @@ Hinweis: die Artikel hier muessen nicht notwendigerweise auf Deutsch sein, da vi
 * [Modellierung von Beispielszenarien der SARS-CoV-2 Epidemie in Deutschland](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Modellierung_Deutschland.pdf?__blob=publicationFile)
 * [Risikoanalyse "Pandemie Modi-SARS"](https://dipbt.bundestag.de/dip21/btd/17/120/1712051.pdf) (Von 2012, interessant ab Seite 55)
 * [Impfstoff-Landschaft](https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/) (Englisch)
+* [Immunogenicity, safety, and reactogenicity of heterologous COVID-19 primary vaccination incorporating mRNA, viral-vector, and protein-adjuvant vaccines in the UK (Com-COV2): a single-blind, randomised, phase 2, non-inferiority trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02718-5/fulltext) 
+* [Mixing mRNA, adenoviral, and spike-adjuvant vaccines for protection against COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02757-4/fulltext)
 
 ### Hersteller
 * [Driponin](https://www.infectopharm.com/praeparate/driponin-3-mg-tabletten/) (Ivermectin Praeparat)
