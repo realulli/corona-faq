@@ -54,6 +54,7 @@ Hinweis: die Artikel hier muessen nicht notwendigerweise auf Deutsch sein, da vi
 * [Artikel ueber Ivermectin bei Drugs.com](https://www.drugs.com/medical-answers/ivermectin-treat-covid-19-coronavirus-3535912/) (Englisch)
 * [Medizin Heute: Interferon Alpha 2B moeglicherweise wirksam gegen Covid-19](https://medizin-heute.net/kubanisches-medikament-hat-sich-bei-der-bekaempfung-der-coronavirus-epidemie-als-wirksam-erwiesen) 
 * [Zeit online Impfstoffliste](https://www.zeit.de/wissen/gesundheit/2020-08/impfstoffentwicklung-corona-impfstoff-klinische-phasen-forschung)
+* [Interesting Engineering: Japan is working on vaccine that offers lifelong immunity](https://interestingengineering.com/japan-is-working-on-a-covid-19-vaccine-that-offers-lifelong-immunity) (Englisch)
 
 ### Quellen in der Forschung
 * [Statement ueber Ivermectin der Monash University](https://www.monash.edu/discovery-institute/news-and-events/news/2020-articles/possible-coronavirus-drug-identified-by-monash-university-scientists) (Englisch)
