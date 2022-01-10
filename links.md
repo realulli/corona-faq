@@ -10,6 +10,7 @@
     * [Divi Intensivregister](https://www.intensivregister.de/#/intensivregister) (Liste der verfuegbaren Plaetze fuer intensivmedizinische Versorgung)
 * [Destatis: Grunddaten der Krankenhaeuser (2017)](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Krankenhaeuser/Publikationen/Downloads-Krankenhaeuser/grunddaten-krankenhaeuser-2120611177004.pdf?__blob=publicationFile)
 * [Fefes Blog](https://blog.fefe.de/?mon=202004) (April)
+* [Tagesspiegel Graphen](https://interaktiv.tagesspiegel.de/lab/karte-sars-cov-2-in-deutschland-landkreise/)
 
 ## Impftermine
 * [Bayern](https://impfzentren.bayern/citizen/)
