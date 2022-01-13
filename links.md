@@ -66,6 +66,7 @@ Hinweis: die Artikel hier muessen nicht notwendigerweise auf Deutsch sein, da vi
 * [Impfstoff-Landschaft](https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/) (Englisch)
 * [Immunogenicity, safety, and reactogenicity of heterologous COVID-19 primary vaccination incorporating mRNA, viral-vector, and protein-adjuvant vaccines in the UK (Com-COV2): a single-blind, randomised, phase 2, non-inferiority trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02718-5/fulltext) 
 * [Mixing mRNA, adenoviral, and spike-adjuvant vaccines for protection against COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02757-4/fulltext)
+* [Cannabinoids Block Cellular Entry of SARS-CoV-2 and the Emerging Variants](https://pubmed.ncbi.nlm.nih.gov/35007072/)
 
 ### Hersteller
 * [Driponin](https://www.infectopharm.com/praeparate/driponin-3-mg-tabletten/) (Ivermectin Praeparat)
